@@ -19,7 +19,7 @@ def retrieval
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
   #your code here!
 end
-retrieval["oil paintings"]
+shipping_manifest=["oil paintings"]
 
 
 def adding
